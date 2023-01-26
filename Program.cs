@@ -11,12 +11,16 @@ Console.Write("Insira seu nome: ");
 string name = Console.ReadLine();
 
 Console.WriteLine("Quantas frases você precisa hoje?");
-Int32.TryParse(Console.ReadLine(), out int amountOfLines);
+bool checkAmountOfLines = Int32.TryParse(Console.ReadLine(), out int amountOfLines);
 
-for (int i = 0; i < amountOfLines; i++)
+
+if (!string.IsNullOrEmpty(name) && checkAmountOfLines)
 {
-    int getNewNumber = randNum.Next(0, phrases.Count);
-    string getPhrase = phrases[getNewNumber];
+    for (int i = 0; i < amountOfLines; i++)
+    {
+        int getNewNumber = randNum.Next(0, phrases.Count);
+        string getPhrase = phrases[getNewNumber];
     
-    Console.WriteLine($"{name}, {getPhrase}");
+        Console.WriteLine($"{name}, {getPhrase}");
+    }
 }

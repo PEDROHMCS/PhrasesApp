@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\bin\Debug\net7.0\PhrasesApp.exe
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\bin\Debug\net7.0\PhrasesApp.deps.json
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\bin\Debug\net7.0\PhrasesApp.runtimeconfig.json
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\bin\Debug\net7.0\PhrasesApp.dll
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\bin\Debug\net7.0\PhrasesApp.pdb
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.dll
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\refint\PhrasesApp.dll
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.pdb
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\PhrasesApp.genruntimeconfig.cache
+C:\Users\User\RiderProjects\PhrasesApp\PhrasesApp\obj\Debug\net7.0\ref\PhrasesApp.dll

@@ -1,3 +1,22 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.IO;
 
-Console.WriteLine("Hello, World!");
+string phrasesFile = $@"{Directory.GetCurrentDirectory()}\Phrases.txt";
+
+List<string> phrases = File.ReadLines(phrasesFile).ToList();
+
+Random randNum = new Random();
+
+Console.Write("Insira seu nome: ");
+string name = Console.ReadLine();
+
+Console.WriteLine("Quantas frases você precisa hoje?");
+Int32.TryParse(Console.ReadLine(), out int amountOfLines);
+
+for (int i = 0; i < amountOfLines; i++)
+{
+    int getNewNumber = randNum.Next(0, phrases.Count);
+    string getPhrase = phrases[getNewNumber];
+    
+    Console.WriteLine($"{name}, {getPhrase}");
+}
